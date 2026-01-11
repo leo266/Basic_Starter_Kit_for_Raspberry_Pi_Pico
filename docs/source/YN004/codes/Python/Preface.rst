@@ -8,7 +8,7 @@ Using Arduino IDE as the development environment for Raspberry Pi Pico allows us
 
 If you have not downloaded the related material for Raspberry Pi Pico tutorial, you can download it from this link:
 
-https://github.com/Robot/Robot_Ultimate_Starter_Kit_for_Raspberry_Pi_Pico
+`Click to download <https://github.com/leo266/Basic_Starter_Kit_for_Raspberry_Pi_Pico/archive/refs/heads/Code.zip>`_
 
 In this tutorial, we divide each project into 4 sections:
 
